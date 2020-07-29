@@ -1,2 +1,2 @@
-# coco2020
+# cocó2020
 O evento colossal.
